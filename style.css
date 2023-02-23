@@ -1,0 +1,24 @@
+h1{
+    color: rgb(201, 120, 255); text-align: center;font-family: 'Tilt Prism', cursive;
+}
+h2{
+    color: rgb(201, 120, 255);font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: rgb(210, 231, 224);
+    background-image: url(fondo2.png);
+}
+p{
+    font-family: 'Shantell Sans', cursive; color: rgb(201, 120, 255);
+}
+#negrilla{
+    color: gold;
+}
+a{
+    color: rgb(60, 2, 97);
+    font-family: 'Shantell Sans', cursive;
+}
+em{
+    color: rgb(201, 120, 255);
+    font-family: 'Shantell Sans', cursive;
+}
